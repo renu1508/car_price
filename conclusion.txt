@@ -1,0 +1,4 @@
+Conclusion:
+Though this is the most simple model we’ve built till now, the final predictors still seem to have high correlations. One can go ahead and remove some of these features, though that will affect the adjusted-r2 score significantly (you should try doing that).
+Thus, for now, the final model consists of the 6 variables mentioned above.
+Thank you for reading !!!
